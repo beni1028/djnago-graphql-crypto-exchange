@@ -12,7 +12,7 @@ db.sqlite3
 db.sqlite3-journal
 media
 ./qnm.txt
-./cli_command_history
+cli_command_history
 blueprint.odt
 ./venv
 cli_command_history
